@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Steps
 npm install -g create-react-app
 create-react-app lottery-react
+npm install --save web3@1.0.0-beta.35
 ## Available Scripts
 
 In the project directory, you can run:
