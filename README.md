@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Contracts Location
+> https://github.com/RocktimRajkumar/Lottery-Contract
+
 ### Steps
 
 > npm install -g create-react-app
